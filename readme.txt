@@ -6,3 +6,4 @@ Second Add
 branch dev 2015-06-09
 second commit for branch dev
 modified in remote branch and try the command 'git fetch' in local.
+modified 
