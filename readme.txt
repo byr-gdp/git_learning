@@ -19,3 +19,6 @@ git checkout -b dev origin/dev
 
 2015-07-22
 learn to use "git stash"
+
+2015-07-22
+modified this file via branch issue-01
