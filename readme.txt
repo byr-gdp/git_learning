@@ -24,4 +24,8 @@ learn to use "git stash"
 modified this file via branch issue-01
 
 2015-07-22
+<<<<<<< Updated upstream
 after git stash and continue modifiying file in ：current branch 
+=======
+use git stash pop
+>>>>>>> Stashed changes
