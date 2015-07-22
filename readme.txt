@@ -22,3 +22,6 @@ learn to use "git stash"
 
 2015-07-22
 modified this file via branch issue-01
+
+2015-07-22
+after git stash and continue modifiying file in ：current branch 
