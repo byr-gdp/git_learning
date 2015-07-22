@@ -11,3 +11,7 @@ modified
 2015-07-22
 关联远程分支
 git checkout -b dev origin/dev
+
+
+2015-07-22
+关联远程dev分支后 本地dev分支push远程master分支 测试
