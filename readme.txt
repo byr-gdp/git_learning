@@ -14,4 +14,5 @@ git checkout -b dev origin/dev
 
 
 2015-07-22
-关联远程dev分支后 本地dev分支push远程master分支 测试
+关联远程dev分支后 本地dev分支push远程master分支 测试 
+结果 failed 无法推送 且无错误信息
