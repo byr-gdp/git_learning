@@ -1,1 +1,3 @@
 This file is for testing git functions as follows: git checkout -- file && git reset HEAD file
+
+After I use the command git checkout -- file, I found the error which means -- is unnecessary as I though. When I removed it, It worked.
