@@ -16,3 +16,16 @@ git checkout -b dev origin/dev
 2015-07-22
 关联远程dev分支后 本地dev分支push远程master分支 测试 
 结果 failed 无法推送 且无错误信息
+
+2015-07-22
+learn to use "git stash"
+
+2015-07-22
+modified this file via branch issue-01
+
+2015-07-22
+<<<<<<< Updated upstream
+after git stash and continue modifiying file in ：current branch 
+=======
+use git stash pop
+>>>>>>> Stashed changes

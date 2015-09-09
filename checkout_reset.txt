@@ -1,0 +1,11 @@
+This file is for testing git functions as follows: git checkout -- file && git reset HEAD file
+
+After I use the command git checkout -- file, I found the error which means -- is unnecessary as I though. When I removed it, It worked.
+
+---
+
+This time I will use the command git reset HEAd file, to return to the latest "git add" state.
+
+The result showed that the command git reset HEAD file is to use before git commit && after git add.
+
+After I use the command git reset HEAD file, the state will be back to modified && not add, what's more, if you insist losing them, use the command git checkout file.

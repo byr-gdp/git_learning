@@ -1,0 +1,3 @@
+This file is for testing rm function
+
+The test file is named "del_test.txt"
