@@ -5,3 +5,5 @@ test command "git reset"
 --hard
 
 test command "git merge"
+
+test --mixed
