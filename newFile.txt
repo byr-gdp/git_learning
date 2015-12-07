@@ -4,6 +4,6 @@ test command "git reset"
 
 --hard
 
-test command "git merge"
+--mixed(default)
 
-test --mixed
+test command "git merge"
