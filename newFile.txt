@@ -3,3 +3,5 @@ test command "git reset"
 --soft
 
 --hard
+
+test command "git merge"
